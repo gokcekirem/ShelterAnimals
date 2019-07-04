@@ -1,5 +1,5 @@
 # Shelter Animals
-Machine Learning project
+Machine Learning Course Project for VU Amsterdam Period 4
 
 # Task
 We want to create a model that will predict a shelter animal's outcome given information about it. More specifically, we are using data from Austin's animal center from Oct 2013 -> Mar 2016 that give the status of dogs and cats as they leave the animal shelter.
