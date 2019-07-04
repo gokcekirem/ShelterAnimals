@@ -12,5 +12,5 @@ The features present in the data include: dog/cat breed, fur color, spayed vs. i
 Kaggle page: https://www.kaggle.com/c/shelter-animal-outcomes
 CSV Files: train.csv, test.csv, sample_submission.csv
 
-#Result 
+# Result 
 Please view the shelterAnimalReport.pdf for a full explanation of scope, data, methods, and results.
